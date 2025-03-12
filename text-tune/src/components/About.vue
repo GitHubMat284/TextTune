@@ -19,6 +19,7 @@
     <ul class="list-disc pl-6">
       <li><strong>Frontend:</strong> Vue.js, Vue Router, Tailwind CSS</li>
       <li><strong>Backend (optional):</strong> Laravel (for future API integrations)</li>
+      <li><strong>Build Tool:</strong> Vite</li>
     </ul>
   </div>
 </template>

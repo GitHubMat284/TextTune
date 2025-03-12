@@ -7,6 +7,9 @@
           <router-link to="/">Start</router-link>
         </button>
         <button>
+          <router-link to="/preferences">Preferences</router-link>
+        </button>
+        <button>
           <router-link to="/about">About</router-link>
         </button>
       </nav>
